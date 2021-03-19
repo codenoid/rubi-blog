@@ -1,6 +1,6 @@
 baseURL = "https://rubi-blog.onrender.com/"
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "id"
+DefaultContentLanguage = "id"
 title = "Rubi Thought"
 theme = "anatole"
 enableEmoji = true
