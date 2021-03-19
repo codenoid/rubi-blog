@@ -1,0 +1,6 @@
+[submodule "themes/minimal-mistake-hugo"]
+	path = themes/minimal-mistake-hugo
+	url = https://github.com/mikeymop/minimal-mistakes-hugo.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
