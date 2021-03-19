@@ -1,14 +1,16 @@
 ---
-title: "How to Install Golang on Linux"
+title: "Cara install Go/Golang di Linux"
 date: 2021-03-19T07:40:17+07:00
 draft: false
 ---
 
-## My Device
+## System Operasi (linux) Saya
 
 - Ubuntu 20.04
 
-## Installation
+## Langkah Installasi
+
+Buka command line (cmd), dan jalankan perintah dibawah ini
 
 ```sh
 cd ~
